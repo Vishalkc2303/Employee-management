@@ -1,0 +1,18 @@
+# Node.js
+employeeFrontend/employee/node_modules/
+employeeFrontend/employee/.env
+employeeFrontend/employee/dist/
+employeeFrontend/employee/.vite/
+
+# Java
+employeeBackend/target/
+employeeBackend/.classpath
+employeeBackend/.project
+employeeBackend/.settings/
+employeeBackend/.idea/
+employeeBackend/.env
+
+# System
+.DS_Store
+Thumbs.db
+*.log
