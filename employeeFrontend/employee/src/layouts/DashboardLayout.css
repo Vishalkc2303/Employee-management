@@ -1,0 +1,11 @@
+.dashboard-layout {
+    display: flex;
+  }
+  .main-content {
+    margin-left: 220px;
+    flex-grow: 1;
+  }
+  .page-content {
+    padding: 1rem;
+  }
+  

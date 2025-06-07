@@ -1,0 +1,24 @@
+.sidebar {
+    width: 220px;
+    height: 100vh;
+    background: #1f2937;
+    color: white;
+    padding: 1rem;
+    position: fixed;
+  }
+  .sidebar .logo {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  .sidebar li {
+    margin: 1rem 0;
+  }
+  .sidebar a {
+    color: white;
+    text-decoration: none;
+  }
+  
